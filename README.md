@@ -28,7 +28,11 @@ segments, and regions using Excel pivot tables and charts.
 | `Retail_Sales_Dashboard.xlsx` | Excel dashboard (coming soon) |
 
 ## Key Findings
-*To be updated once analysis is complete*
+- **Technology** is the highest revenue category ($827,455), outperforming Furniture ($728,658) and Office Supplies ($705,422)
+- **Phones** and **Chairs** are the top two best-selling sub-categories
+- The **Consumer** segment drives over 50% of total sales ($1,148,060)
+- **Standard Class** shipping accounts for 59% of all sales ($1,340,831)
+- **East and West** regions outperform Central and South consistently
 
 ## Status
-🔄 In Progress — Dashboard currently being built
+Complete
